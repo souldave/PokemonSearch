@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokemonSearch</string>
+    <string name="text_not_found">POKEMON NOT FOUND!</string>
+    <string name="heres_your_pokemon">HERE\'S YOUR POKEMON!</string>
+</resources>
